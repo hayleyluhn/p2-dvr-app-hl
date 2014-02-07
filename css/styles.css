@@ -1,0 +1,66 @@
+body {
+
+	background: white;
+}
+
+ul {
+	list-style-type: none;
+}
+
+.button-power { 
+	float: none;
+	background: gray;
+	border-radius: 4px;
+	padding: 15px;
+	margin: 15px;
+	color: white;
+}
+
+.button-pad {
+	color: white;
+	background: grey;
+	font-size: 20px;
+	padding-left: 20px;
+	padding-right: 20px;
+	margin: 5px;
+	width: 100px;
+	float: left;
+	}
+
+
+
+.button-group li a {
+	width: 140px;
+	border: 1px solid black;
+	padding-left:45px;
+}
+
+
+
+.button-volume {
+	float: left;
+	font-size: 20px;
+	color: white;
+	background: lightblue;
+	border-radius: 4px;
+	margin: 3px;
+	width: 60px;
+
+}
+
+
+.accordion {
+	width: 220px;
+}
+
+
+.button-channel {
+	float: left;
+	color: white;
+	background: lightblue;
+	border-radius: 4px;
+	font-size: 20px;
+	margin: 3px;
+	width: 60px;
+
+}
